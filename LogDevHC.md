@@ -1,8 +1,10 @@
 # 项目开发日志
 
+## 优化迭代
 
+## MVP
 
-## -11wd0 170827
+### -11wd0 170827
 
 写晨间日记一时兴起，梳理了整个 project 的远景、开发安排，并单开了一个 [WorkFlowy 节点](https://workflowy.com/s/CO_N.9LnehO9jv0)和一个 GitHub 仓库 [ishanshan/HbCollaborate: 教你高效协作](https://github.com/ishanshan/HbCollaborate) 来推进这个项目：
 
