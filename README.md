@@ -3,7 +3,7 @@
 > 我的剑，传给能挥舞它的人。
 > ——《天路历程》
 
-这是一份共创指南，给 shaper 的共创指南。For shaper, by shaper. 希望它，能助你用好手中武器，把周围塑造成你想见的样子。
+这是一份共创指南，给 shaper 的共创指南。<br> For shaper, by shaper. <br> 希望它，能助你用好手中武器，把周围塑造成你想见的样子。
 
 ## Content
 
@@ -51,7 +51,7 @@
 
 ## Contribution
 
-欢迎发挥你的长处，让更多人能把周围塑造成自己想见的样子 ;-)
+欢迎发挥你的长处，让更多人能把周围塑造成他想见的样子 ;-)
 
 比如，同为 shaper 的你，会给其它哪些共创建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/CollaborationGuide4Shaper/issues) 交流，一起让更多人愉快共创、塑造世界 😋
 
