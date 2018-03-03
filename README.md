@@ -3,7 +3,7 @@
 > 我的剑，传给能挥舞它的人。
 > ——《天路历程》
 
-这是一份共创指南，给 shaper 的共创指南。<br> For shaper, by shaper. <br> 希望它，能助你用好手中武器，把周围塑造成你想见的样子。
+这是一份共创指南，给 shaper 的共创指南。For shaper, by shaper. <br> 希望它，能助你用好手中武器，把周围塑造成你想见的样子。
 
 ## Content
 
