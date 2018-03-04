@@ -28,10 +28,10 @@ For shaper, by shaper, help you be a shaper.
 
 
 - 初入团队，主动找周围接口了解期望
-	- 问题清单 1：新人找 manager 会谈，了解期望（InfoQ2Manager.md）
-	- 问题清单 2：新人找同事会谈，了解潜规则（InfoQ2Partner.md）
+	- 问题清单 1：新人找 manager 会谈，了解期望（InfoQFreshaman2Manager.md）
+	- 问题清单 2：新人找同事会谈，了解潜规则（InfoQFreshaman2Partner.md）
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](http://ishanshan.top/selfedu/TipsWeekly.html)）
-- 月度自检，占据 1 on 1 沟通主动权（InfoQ2WorkReviewMonthly4Yourself.md）
+- 月度自检，占据 1 on 1 沟通主动权（InfoQYourself4WorkReviewMonthly.md）
 - 附：
 	- 职场基础素养（HbWorkStyleFreshman.md）
 	- 职场快速进阶心法（HbWorkStyleAdvanced.md）
@@ -40,7 +40,7 @@ For shaper, by shaper, help you be a shaper.
 
 - 了解团队伙伴对团队目标的理解、期待（HbKnowYourOrg.md）
 - 吸纳同道人，组建你喜欢的团队
-	- 面试技巧（HbInterview.md）
+	- 面试技巧（HbInterviewer.md）
 	- 招聘管理指南（HbHire2Entry.md）
 - 优雅异步协同（HbCollaborate.md）
 - 优雅张罗共创会议（HbCollaborateMeetingHost.md）
