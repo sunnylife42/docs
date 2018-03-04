@@ -17,9 +17,9 @@ For shaper, by shaper, help you be a shaper.
 - 了解自己、梳理个人期望（HbKnowYourself.md）
 - 发布个人使用指南，明晰个人 API（HbPersonalUsage.md）
 - 附：提升效率的小技巧
-	- 知识工作者协作基础技能清单（[IdxCooperateBasicSkill.md](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)）
+	- 知识工作者协作基础技能清单（[IdxCooperateBasicSkill](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)）
 	- MarkDown 周边技巧（HbMarkdownTrick.md）
-	- 在电脑上高效调取资源（HbFindResEfficientlyPC.md）
+	- 在电脑上高效调取资源（[HbFindResEfficientlyPC](https://github.com/OpenMindClub/Share/wiki/HbFindResEfficientlyPC)）
 	- 好习惯清单（IdxElegantHabit.md）
 	- 其它（HbWorkingEfficiently.md）
 
@@ -33,25 +33,36 @@ For shaper, by shaper, help you be a shaper.
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](http://ishanshan.top/selfedu/TipsWeekly.html)）
 - 月度自检，占据 1 on 1 沟通主动权（InfoQYourself4WorkReviewMonthly.md）
 - 附：
-	- 职场基础素养（HbWorkStyleFreshman.md）
-	- 职场快速进阶心法（HbWorkStyleAdvanced.md）
+	- 职场基础素养（[HbWorkStyleBasic](https://github.com/OpenMindClub/Share/wiki/HbWorkStyleBasic)）
+	- 职场快速进阶心法（[HbWorkStyleAdvanced](https://github.com/OpenMindClub/Share/wiki/HbWorkStyleAdvanced)）
 
 ### 3. shape your organization
 
 - 了解团队伙伴对团队目标的理解、期待（HbKnowYourOrg.md）
 - 吸纳同道人，组建你喜欢的团队
-	- 面试技巧（HbInterviewer.md）
-	- 招聘管理指南（HbHire2Entry.md）
-- 优雅异步协同（HbCollaborate.md）
-- 优雅张罗共创会议（HbCollaborateMeetingHost.md）
-- 优雅张罗对外的小型交流活动（HbActivityHost.md）
+	- 招聘指南（[HbEmploy](https://github.com/OpenMindClub/Share/wiki/HbEmploy)）
+	- 招聘流程管理指南（HbHire2Entry.md）
+- 优雅张罗共创时空
+	- 张罗项目启动会（[HbHostProjectStartupMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostProjectStatupMeeting)）
+	- 张罗常规共创会议（[HbHostCollaborateMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting)）
+	- 张罗对外的小型交流活动（[HbHostActivity](https://github.com/OpenMindClub/Share/wiki/HbHostActivity)）
+	- 异步协同心法（HbCollaborate.md）
 - 附：
 	- 协作规约
 		- 团队文档命名规约（[HbDocName.html](http://ishanshan.top/community/HbDocName.html)）
-		- 协作文档结构规约（[HbDoc.md](https://github.com/OpenMindClub/Share/wiki/HbDoc)）
-		- 缩写规约（[HbShortRule.md](https://github.com/OpenMindClub/Share/wiki/HbShortRule)）
+		- 协作文档结构规约（[HbDoc](https://github.com/OpenMindClub/Share/wiki/HbDoc)）
+		- 缩写规约（[HbShortRule](https://github.com/OpenMindClub/Share/wiki/HbShortRule)）
 		- 避免 GitHub 协作五大业余姿势（[HbGitHubCooperate.html](http://ishanshan.top/community/HbGitHubCooperate.html)）
-	- 优质破冰问题清单（InfoQ4Icebreaking.md）
+	- 优质破冰问题清单（[InfoQ4Icebreaking.md](CONTENT/InfoQ4Icebreaking.md)）
+
+注：
+
+上述链接文档主要分布在三处，标记如下：
+
+- `.md` 结尾：为本仓库 `../CONTENT/` 路径下的 MarkDown 文档
+- `.html` 结尾：为 http://ishanshan.top/ 发布的博文
+- 无后缀结尾：为 https://github.com/OpenMindClub/Share/wiki/ 仓库 wiki 文档
+
 
 ## Contribution
 
