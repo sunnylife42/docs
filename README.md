@@ -1,6 +1,6 @@
 # Collaboration Guide for Shaper
 
-For shaper, by shaper, help you be a shaper.
+
 
 > 我的剑，传给能挥舞它的人。
 > ——《天路历程》
@@ -9,8 +9,10 @@ For shaper, by shaper, help you be a shaper.
 
 ## Content
 
+For shaper, by shaper, help you be a shaper.
 
-### 1. Shaper 的自我修养
+
+### 1. self-edu for shaper
 
 - 了解自己、梳理个人期望（HbKnowYourself.md）
 - 发布个人使用指南，明晰个人 API（HbPersonalUsage.md）
@@ -22,21 +24,21 @@ For shaper, by shaper, help you be a shaper.
 	- 其它（HbWorkingEfficiently.md）
 
 
-### 2. 接入团队
+### 2. join an organization
 
 
 - 初入团队，主动找周围接口了解期望
 	- 问题清单 1：新人找 manager 会谈，了解期望（IdxQ2Manager.md）
 	- 问题清单 2：新人找同事会谈，了解潜规则（IdxQ2Partner.md）
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](http://ishanshan.top/selfedu/TipsWeekly.html)）
-- 月度自检，占据 1 on 1 沟通主动权（IdxQ2WorkReviewMonthly4Urself.md）
+- 月度自检，占据 1 on 1 沟通主动权（IdxQ2WorkReviewMonthly4Yourself.md）
 - 附：
 	- 职场基础素养（HbWorkStyleFreshman.md）
 	- 职场快速进阶心法（HbWorkStyleAdvanced.md）
 
-### 3. 塑造团队
+### 3. shape your organization
 
-- 了解团队伙伴对团队目标的理解、期待（HbKnowTeamate.md）
+- 了解团队伙伴对团队目标的理解、期待（HbKnowYourOrg.md）
 - 吸纳同道人，组建你喜欢的团队
 	- 面试技巧（HbInterview.md）
 	- 招聘管理指南（HbHire2Entry.md）
