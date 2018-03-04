@@ -28,10 +28,10 @@ For shaper, by shaper, help you be a shaper.
 
 
 - 初入团队，主动找周围接口了解期望
-	- 问题清单 1：新人找 manager 会谈，了解期望（IdxQ2Manager.md）
-	- 问题清单 2：新人找同事会谈，了解潜规则（IdxQ2Partner.md）
+	- 问题清单 1：新人找 manager 会谈，了解期望（InfoQ2Manager.md）
+	- 问题清单 2：新人找同事会谈，了解潜规则（InfoQ2Partner.md）
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](http://ishanshan.top/selfedu/TipsWeekly.html)）
-- 月度自检，占据 1 on 1 沟通主动权（IdxQ2WorkReviewMonthly4Yourself.md）
+- 月度自检，占据 1 on 1 沟通主动权（InfoQ2WorkReviewMonthly4Yourself.md）
 - 附：
 	- 职场基础素养（HbWorkStyleFreshman.md）
 	- 职场快速进阶心法（HbWorkStyleAdvanced.md）
@@ -51,7 +51,7 @@ For shaper, by shaper, help you be a shaper.
 		- 协作文档结构规约（[HbDoc.md](https://github.com/OpenMindClub/Share/wiki/HbDoc)）
 		- 缩写规约（[HbShortRule.md](https://github.com/OpenMindClub/Share/wiki/HbShortRule)）
 		- 避免 GitHub 协作五大业余姿势（[HbGitHubCooperate.html](http://ishanshan.top/community/HbGitHubCooperate.html)）
-	- 优质破冰问题清单（IdxQ4Icebreaking.md）
+	- 优质破冰问题清单（InfoQ4Icebreaking.md）
 
 ## Contribution
 
