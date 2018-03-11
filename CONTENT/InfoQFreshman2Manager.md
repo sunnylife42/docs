@@ -33,7 +33,7 @@ XX~ 你接下来一周哪个时间方便抽出 0.5-1h ，我想和你聊聊你�
 ## 使用建议
 
 - 各团队沟通习惯不同，以上是我在 IM 渠道发的信息，其实更建议你邮件发给 manager ，然后在 IM 渠道打招呼和 manager 确认时间，这样更专业。
-- 如果你想直接复制使用当面的内容，可以点击本页面右上角的 [raw](https://raw.githubusercontent.com/ishanshan/CollaborationGuide4Shaper/master/CONTENT/InfoQFreshman2Manager.md) 按钮，复制非渲染格式。
+- 如果你想直接复制使用当面的内容，可以点击本文本框右上角的 「[raw](https://raw.githubusercontent.com/ishanshan/CollaborationGuide4Shaper/master/CONTENT/InfoQFreshman2Manager.md)」按钮，复制非渲染格式。
 - 除了解了 manager 和公司对自己的期待，你还需了解周围的亚文化，才能令自己更如鱼得水。如何高效了解周围亚文化？且看 [新人找同事会谈，了解团队亚文化 | 问题清单](InfoQFreshman2Partner.md) 。
 
 
