@@ -1,3 +1,5 @@
+
+
 # 如何了解团队伙伴对团队的理解、期待？
 
 团队变大，各人信念不一，对团队愿景理解不一，对周围人了解也不多，日子久了难免头疼手脚不协调。
@@ -5,6 +7,23 @@
 此时，若能抽个时间，大伙儿把心打开，聊聊深处念想，求同存异，定能令你舒坦不少。不信你试试？
 
 下述活动方案供你参考。
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+  - [增进彼此对团队愿景和价值观的理解](#%E5%A2%9E%E8%BF%9B%E5%BD%BC%E6%AD%A4%E5%AF%B9%E5%9B%A2%E9%98%9F%E6%84%BF%E6%99%AF%E5%92%8C%E4%BB%B7%E5%80%BC%E8%A7%82%E7%9A%84%E7%90%86%E8%A7%A3)
+    - [所需准备](#%E6%89%80%E9%9C%80%E5%87%86%E5%A4%87)
+    - [活动流程](#%E6%B4%BB%E5%8A%A8%E6%B5%81%E7%A8%8B)
+    - [注：](#%E6%B3%A8)
+  - [增进彼此对团队成员的理解](#%E5%A2%9E%E8%BF%9B%E5%BD%BC%E6%AD%A4%E5%AF%B9%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%9A%84%E7%90%86%E8%A7%A3)
+    - [所需准备](#%E6%89%80%E9%9C%80%E5%87%86%E5%A4%87-1)
+    - [活动文案示范暨活动流程](#%E6%B4%BB%E5%8A%A8%E6%96%87%E6%A1%88%E7%A4%BA%E8%8C%83%E6%9A%A8%E6%B4%BB%E5%8A%A8%E6%B5%81%E7%A8%8B)
+      - [流程](#%E6%B5%81%E7%A8%8B)
+      - [参与须知](#%E5%8F%82%E4%B8%8E%E9%A1%BB%E7%9F%A5)
+    - [注：](#%E6%B3%A8-1)
+  - [CHANGELOG](#changelog)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 增进彼此对团队愿景和价值观的理解
 
@@ -52,7 +71,7 @@
 
 
 
->赞！
+>赞！<br> 
 棒！<br> 
 很棒！<br> 
 真棒！<br> 
