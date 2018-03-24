@@ -81,6 +81,7 @@ For shaper, by shaper, help you be a shaper.
 
 ## CHANGELOG 
 
+- 180324 闪闪把更新所有文档 MVP
 - 180311 闪闪增补两个问题清单
 - 180301 闪闪创建
 
