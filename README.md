@@ -14,14 +14,14 @@ For shaper, by shaper, help you be a shaper.
 
 ### 1. self-edu for shaper
 
-- 了解自己、梳理个人期望（HbKnowYourself.md）
-- 发布个人使用指南，明晰个人 API（HbPersonalUsage.md）
+- 了解自己、梳理个人期望（[HbKnowYourself.md](CONTENT/HbKnowYourself.md)）
+- 发布个人使用指南，明晰个人接口（[HbPersonalUsage.md](CONTENT/HbPersonalUsage.md)）
 - 附：提升效率的小技巧
 	- 知识工作者协作基础技能清单（[IdxCooperateBasicSkill](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)）
-	- MarkDown 周边技巧（HbMarkdownTrick.md）
+	- MarkDown 周边技巧（[HbMarkdownTrick.md](CONTENT/HbMarkdownTrick.md)）
 	- 在电脑上高效调取资源（[HbFindResEfficientlyPC](https://github.com/OpenMindClub/Share/wiki/HbFindResEfficientlyPC)）
-	- 好习惯清单（IdxElegantHabit.md）
-	- 其它（HbWorkingEfficiently.md）
+	- 好习惯清单（[IdxElegantHabit.md](CONTENT/IdxElegantHabit.md)）
+	- 其它（[HbWorkingEfficiently.md](CONTENT/HbWorkingEfficiently.md)）
 
 
 ### 2. join an organization
@@ -41,12 +41,12 @@ For shaper, by shaper, help you be a shaper.
 - 了解团队伙伴对团队目标的理解、期待（[HbKnowYourOrg.md](CONTENT/HbKnowYourOrg.md)）
 - 吸纳同道人，组建你喜欢的团队
 	- 招聘面试指南（[HbEmploy](https://github.com/OpenMindClub/Share/wiki/HbEmploy)）
-	- 招聘流程管理指南（HbHire2Entry.md）
+	- 招聘流程管理指南（[HbHire2Entry.md](CONTENT/HbHire2Entry.md)）
 - 优雅张罗共创时空
-	- 张罗项目启动会（[HbHostProjectStartupMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostProjectStatupMeeting)）
+	- 张罗项目启动会（[HbHostProjectStartupMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostProjectStartupMeeting)）
 	- 张罗常规共创会议（[HbHostCollaborateMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting)）
 	- 张罗对外的小型交流活动（[HbHostActivity](https://github.com/OpenMindClub/Share/wiki/HbHostActivity)）
-	- 异步协同心法（HbCollaborate.md）
+	- 异步协同心法（[HbCollaborate.md](CONTENT/HbCollaborate.md)）
 - 附：
 	- 协作规约
 		- 团队文档命名规约（[HbDocName.html](http://ishanshan.top/community/HbDocName.html)）
