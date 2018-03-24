@@ -30,7 +30,7 @@ XX~ 你接下来一周哪个时间方便抽出 0.5-1h ，我想和你聊聊你�
 	- 这是我的使用指南 https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md ，你可否抽 7 分钟瞅瞅，看哪些是你不能接受的，预判哪些是我们可能会有冲突的？咱们当面聊聊有什么预防方式？
 
 
-## 使用建议
+## 行动建议
 
 - 各团队沟通习惯不同，以上是我在 IM 渠道发的信息，其实更建议你邮件发给 manager ，然后在 IM 渠道打招呼和 manager 确认时间，这样更专业。
 - 如果你想直接复制使用上面的内容，可以点击本文本框右上角的 「[Raw](https://raw.githubusercontent.com/ishanshan/CollaborationGuide4Shaper/master/CONTENT/InfoQFreshman2Manager.md)」按钮，复制非渲染格式。
