@@ -10,6 +10,7 @@
 
 - [Mac 快捷键](#mac-%E5%BF%AB%E6%8D%B7%E9%94%AE)
 - [zotero 快捷键](#zotero-%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- [把 PDF 转为其它格式](#%E6%8A%8A-pdf-%E8%BD%AC%E4%B8%BA%E5%85%B6%E5%AE%83%E6%A0%BC%E5%BC%8F)
 - [git](#git)
   - [删除大型文件](#%E5%88%A0%E9%99%A4%E5%A4%A7%E5%9E%8B%E6%96%87%E4%BB%B6)
   - [强制滚回某个版本](#%E5%BC%BA%E5%88%B6%E6%BB%9A%E5%9B%9E%E6%9F%90%E4%B8%AA%E7%89%88%E6%9C%AC)
@@ -41,6 +42,16 @@
 
 Assign Colored Tag to an Item with 1 to 6 keys 
 ：[kb:keyboard_shortcuts [Zotero Documentation]](https://www.zotero.org/support/kb/keyboard_shortcuts)
+
+## 把 PDF 转为其它格式
+
+通用在线处理工具：[PDF转DOC – 在线转换PDF文档至Word格式](http://pdf2doc.com/zh/)。这里还可以转换为很多其它格式，也可以在线编辑。
+
+
+如果想转成电子书格式，可以用 [eBook Converter – Convert PDF and Other Formats to eBooks](http://toepub.com/)。
+
+如果想直接在 kindle 查看，还可以把 PDF 以附件形式发到个人 kindle 邮箱（比如 ishanshan@kindle.cn），邮件主题为 convert 即可。详见 [Amazon.com: Send to Kindle by E-mail](https://www.amazon.com/gp/sendtokindle/email)。
+
 
 ## git 
 
