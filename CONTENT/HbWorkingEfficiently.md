@@ -2,18 +2,22 @@
 
 # 提升工作效率的小技巧
 
-~ 汇总常用平台操作技巧，以备查阅：
+~ 汇总常用平台操作技巧，以备查阅（在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用）：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [Mac 快捷键](#mac-%E5%BF%AB%E6%8D%B7%E9%94%AE)
-  - [zotero 快捷键](#zotero-%E5%BF%AB%E6%8D%B7%E9%94%AE)
-  - [Jekyll blog 发布预览](#jekyll-blog-%E5%8F%91%E5%B8%83%E9%A2%84%E8%A7%88)
-  - [git](#git)
-    - [删除大型文件](#%E5%88%A0%E9%99%A4%E5%A4%A7%E5%9E%8B%E6%96%87%E4%BB%B6)
-    - [强制滚回某个版本](#%E5%BC%BA%E5%88%B6%E6%BB%9A%E5%9B%9E%E6%9F%90%E4%B8%AA%E7%89%88%E6%9C%AC)
-  - [CHANGELOG](#changelog)
+
+- [Mac 快捷键](#mac-%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- [zotero 快捷键](#zotero-%E5%BF%AB%E6%8D%B7%E9%94%AE)
+- [git](#git)
+  - [删除大型文件](#%E5%88%A0%E9%99%A4%E5%A4%A7%E5%9E%8B%E6%96%87%E4%BB%B6)
+  - [强制滚回某个版本](#%E5%BC%BA%E5%88%B6%E6%BB%9A%E5%9B%9E%E6%9F%90%E4%B8%AA%E7%89%88%E6%9C%AC)
+- [Jekyll blog 发布预览](#jekyll-blog-%E5%8F%91%E5%B8%83%E9%A2%84%E8%A7%88)
+- [embed something](#embed-something)
+  - [general](#general)
+  - [embed Google Docs, Sheets, Slides & Forms](#embed-google-docs-sheets-slides--forms)
+- [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -38,14 +42,6 @@
 Assign Colored Tag to an Item with 1 to 6 keys 
 ：[kb:keyboard_shortcuts [Zotero Documentation]](https://www.zotero.org/support/kb/keyboard_shortcuts)
 
-## Jekyll blog 发布预览
-
-若能在 commit 到 GitHub 前先实时预览 Jekyll Blog 发布效果，维护 blog 将省心不少。
-
-如何实现？可以参考官方教程： http://jekyllcn.com/docs/installation/ 。
-
-配置完后，每次只需进入 blog 目录，输入 `jekyll serve` 命令，即可通过网址（端口） http://127.0.0.1:4000/ 实时预览编辑效果。
-
 ## git 
 
 ### 删除大型文件
@@ -68,6 +64,38 @@ Assign Colored Tag to an Item with 1 to 6 keys
 		git add .
 		git commit -m "revert to XXX version"
 		git push -f
+
+
+
+
+## Jekyll blog 发布预览
+
+若能在 commit 到 GitHub 前先实时预览 Jekyll Blog 发布效果，维护 blog 将省心不少。
+
+如何实现？可以参考官方教程： http://jekyllcn.com/docs/installation/ 。
+
+配置完后，每次只需进入 blog 目录，输入 `jekyll serve` 命令，即可通过网址（端口） http://127.0.0.1:4000/ 实时预览编辑效果。
+
+## embed something
+
+如果你想在网页中引入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
+
+### general
+
+一般来说，把你想引入的内容地址贴到 [Embed Code Generator | Embedly](http://embed.ly/code)，获取 embed 代码，贴到网页对应位置即可。
+
+或者检索「  `你所想引入的内容所在平台` + embed 」，找到更专业的方式。比如 👇🏻
+
+### embed Google Docs, Sheets, Slides & Forms
+
+操作详见 [Publish and embed Google Docs, Sheets, Slides & Forms - Computer - Docs editors Help](https://support.google.com/docs/answer/37579?co=GENIE.Platform%3DDesktop&hl=en&oco=1) 。
+
+如果想指定长宽，可加入 `width='675' height='800' frameborder='1' scrolling='no'` 等参数。比如：
+
+
+	<iframe width='675' height='800' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQK7hMwB9i24zh-mBe_AExhEj-v5CJOZSEk1DVWs1RF2kRytEo8msg_LVaSDJ4NaDzjg0OrAwz68hVF/pubhtml?gid=526887982&amp;range=A1:E23&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 
 
 ## CHANGELOG 
