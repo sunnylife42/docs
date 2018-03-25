@@ -31,6 +31,8 @@
 
 ## 内容编辑
 
+MarkDown 编辑器推荐见 https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill 推荐，在页面直接检索 MarkDown 即可查看。
+
 ### 在线协同编辑
 
 推荐 [StackEdit – In-browser Markdown editor](https://stackedit.io/)。其实你若不嫌弃，也可以直接在 Google docs 等支持在线协同编辑的平台，以  MarkDown 源码格式协同创作……
