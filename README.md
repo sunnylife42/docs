@@ -48,12 +48,15 @@ For shaper, by shaper, help you be a shaper.
 	- 张罗对外的小型交流活动（[HbHostActivity](https://github.com/OpenMindClub/Share/wiki/HbHostActivity)）
 	- 异步协同心法（[HbCollaborate.md](CONTENT/HbCollaborate.md)）
 - 附：
+	- 优质破冰问题清单（[InfoQ4Icebreaking.md](CONTENT/InfoQ4Icebreaking.md)）
+	- 项目仓库 wiki 初始化&优雅使用指南（[HbCollaborateWikiandCode](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode)）
 	- 协作规约
 		- 团队文档命名规约（[HbDocName.html](http://ishanshan.top/community/HbDocName.html)）
 		- 协作文档结构规约（[HbDoc](https://github.com/OpenMindClub/Share/wiki/HbDoc)）
 		- 缩写规约（[HbShortRule](https://github.com/OpenMindClub/Share/wiki/HbShortRule)）
 		- 避免 GitHub 协作五大业余姿势（[HbGitHubCooperate.html](http://ishanshan.top/community/HbGitHubCooperate.html)）
-	- 优质破冰问题清单（[InfoQ4Icebreaking.md](CONTENT/InfoQ4Icebreaking.md)）
+
+
 
 注：
 
@@ -81,6 +84,7 @@ For shaper, by shaper, help you be a shaper.
 
 ## CHANGELOG 
 
+- 180325 闪闪增加一个 wiki 使用指南
 - 180324 闪闪把更新所有文档 MVP
 - 180311 闪闪增补两个问题清单
 - 180301 闪闪创建

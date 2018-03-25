@@ -26,8 +26,7 @@
 
 - 调出 emoji ：command + control + spacebar
 - 截图：
-	- 自带快捷键
-	
+	- 自带快捷键	
 		- 全屏截图：Command+Shift+3, 使用快捷键后会马上截获当前的全屏。
 		- 区域截图：Command+Shift +4, 使用快捷键后会出现带坐标的瞄准器，拖拽选择要截图的区域。
 		- 程序窗口截图： Command+Shift+4+Space, 使用快捷键后会出现一个照相机的图标， 选择程序窗口，然后单击截图。
@@ -35,6 +34,8 @@
 		- 默认情况下，所有截图会保存在桌面上，也就是 Desktop 文件夹下。
 		- 如果你在上述任意一套组合键中加上 Control 键，则截图会自动进入系统的剪切板记录，桌面不会再保存截图，此时你可以在 Pixelmator 这种图片编辑软件上直接 Command + V 进行粘贴。
 	- 微信或企业微信截图快捷键：command + shift + a
+- 强制退出：command + option + esc
+- 调出活动监视器：在 Spotlight 中搜索 activity monitor
 
 更多 Mac 常用快捷键见 http://ishanshan.qiniudn.com/share/hbhotkeymac 。
 
