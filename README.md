@@ -71,7 +71,7 @@ For shaper, by shaper, help you be a shaper.
 
 欢迎你也发挥自己的长处，助更多人能把周围塑造成他想见的样子 ;-)
 
-比如，同为 shaper 的你，会给其它哪些共创建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/CollaborationGuide4Shaper/issues) 交流，一起让更多人愉快共创、塑造世界 😋
+比如，同为 shaper 的你，还有哪些共创建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/CollaborationGuide4Shaper/issues) 交流，一起让更多人愉快共创、塑造世界 😋
 
 又如，这里的行动建议和示范，给了你怎样的影响？我十分期待听到你的使用反馈，直接在  [Issues](https://github.com/ishanshan/CollaborationGuide4Shaper/issues) 页面点击右上角的 `new issue` 按钮，发布新 Issue 留言即可。如想私下交流，欢迎邮件我 ishanshan.huang#gmail.com ：）
 
