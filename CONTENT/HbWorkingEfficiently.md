@@ -107,10 +107,18 @@ Assign Colored Tag to an Item with 1 to 6 keys
 
 	<iframe width='675' height='800' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQK7hMwB9i24zh-mBe_AExhEj-v5CJOZSEk1DVWs1RF2kRytEo8msg_LVaSDJ4NaDzjg0OrAwz68hVF/pubhtml?gid=526887982&amp;range=A1:E23&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+### embed WorkFlowy 
 
+操作可参考 [how to embed Workflowy lists in your website - meu entulho querido](http://entulho.fiatjaf.alhur.es/guias/how-to-embed-workflowy-lists-in-your-website/)
+
+如果想指定长宽，可加入上述参数。比如：
+
+	<iframe  width='675' height='800' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.rltyKgPOoe"></iframe>
+	
 
 
 ## CHANGELOG 
 
+- 180417 闪闪增加 embed WorkFlowy 操作
 - 180323 闪闪创建
 
