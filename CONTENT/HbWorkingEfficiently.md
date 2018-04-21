@@ -113,12 +113,13 @@ Assign Colored Tag to an Item with 1 to 6 keys
 
 如果想指定长宽，可加入上述参数。比如：
 
-	<iframe  width='675' height='800' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.rltyKgPOoe"></iframe>
+	<iframe  width='675' height='800' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.9glcXYoyF4"></iframe>
 	
-
+如果想让别人也能在你分享的 WorkFlowy 片段里自由编辑，但又不影响你分享的内容，可以在分享地址后加 `?demo` ，比如 https://workflowy.com/s/CO_N.9glcXYoyF4?demo 。embed 后的地址同样适用。
 
 ## CHANGELOG 
 
+- 180421 闪闪增加 WorkFlowy `?demo` 操作
 - 180417 闪闪增加 embed WorkFlowy 操作
 - 180323 闪闪创建
 
