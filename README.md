@@ -16,9 +16,14 @@ For shaper, by shaper, help you be a shaper.
 
 - 了解自己、梳理个人期望（[HbKnowYourself.md](CONTENT/HbKnowYourself.md)）
 - 发布个人使用指南，明晰个人接口（[HbPersonalUsage.md](CONTENT/HbPersonalUsage.md)）
+- 提升个人输出质&量
+	- 卡片助力输入输出，工具我选 WorkFlowy（[HbOutputOwetoWorkFlowy.html](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)）
+	- 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功（[HbOutputOwetoCards.html](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards)）
 - 附：提升效率的小技巧
 	- 知识工作者协作基础技能清单（[IdxCooperateBasicSkill](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)）
-	- MarkDown 周边技巧（[HbMarkdownTrick.md](CONTENT/HbMarkdownTrick.md)）
+	- 团队协作技能自学&自检清单（[Google Docs](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0)）
+	- 偏门但实用的 MarkDown 技巧（[HbMarkdownTrick.md](CONTENT/HbMarkdownTrick.md)）
+	- 给文字工作者的 GitHub 上手攻略（[HbGitHub](https://github.com/OpenMindClub/Share/wiki/HbGitHub)）
 	- 在电脑上高效调取资源（[HbFindResEfficientlyPC](https://github.com/OpenMindClub/Share/wiki/HbFindResEfficientlyPC)）
 	- 好习惯清单（[IdxElegantHabit.md](CONTENT/IdxElegantHabit.md)）
 	- 其它（[HbWorkingEfficiently.md](CONTENT/HbWorkingEfficiently.md)）
@@ -30,7 +35,7 @@ For shaper, by shaper, help you be a shaper.
 - 初入团队，主动找周围接口了解期望
 	- 问题清单 1：新人找 manager 会谈，了解期望（[InfoQFreshman2Manager.md](CONTENT/InfoQFreshman2Manager.md)）
 	- 问题清单 2：新人找同事会谈，了解潜规则（[InfoQFreshman2Partner.md](CONTENT/InfoQFreshman2Partner.md)）
-- 用心写周报，争取成长机会和资源（[TipsWeekly.html](http://ishanshan.top/selfedu/TipsWeekly.html)）
+- 用心写周报，争取成长机会和资源（[TipsWeekly.html](https://ishanshan.im/selfedu/TipsWeekly.html)）
 - 月度自检，占据 1 on 1 沟通主动权（[InfoQYourself4WorkReviewMonthly.md](CONTENT/InfoQYourself4WorkReviewMonthly.md)）
 - 附：
 	- 职场基础素养（[HbWorkStyleBasic](https://github.com/OpenMindClub/Share/wiki/HbWorkStyleBasic)）
@@ -51,10 +56,10 @@ For shaper, by shaper, help you be a shaper.
 	- 优质破冰问题清单（[InfoQ4Icebreaking.md](CONTENT/InfoQ4Icebreaking.md)）
 	- 项目仓库 wiki 初始化&优雅使用指南（[HbCollaborateWikiandCode](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode)）
 	- 协作规约
-		- 团队文档命名规约（[HbDocName.html](http://ishanshan.top/community/HbDocName.html)）
+		- 团队文档命名规约（[HbDocName.html](https://ishanshan.im/community/HbDocName.html)）
 		- 协作文档结构规约（[HbDoc](https://github.com/OpenMindClub/Share/wiki/HbDoc)）
 		- 缩写规约（[HbShortRule](https://github.com/OpenMindClub/Share/wiki/HbShortRule)）
-		- 避免 GitHub 协作五大业余姿势（[HbGitHubCooperate.html](http://ishanshan.top/community/HbGitHubCooperate.html)）
+		- 避免 GitHub 协作五大业余姿势（[HbGitHubCooperate.html](https://ishanshan.im/community/HbGitHubCooperate.html)）
 
 
 
@@ -63,7 +68,7 @@ For shaper, by shaper, help you be a shaper.
 上述链接文档主要分布在三处，标记如下：
 
 - `.md` 结尾：为本仓库 `../CONTENT/` 路径下的 MarkDown 文档
-- `.html` 结尾：为 http://ishanshan.top/ 发布的博文
+- `.html` 结尾：为 https://ishanshan.im/ 发布的博文
 - 无后缀结尾：为 https://github.com/OpenMindClub/Share/wiki/ 仓库 wiki 文档
 
 
@@ -82,10 +87,10 @@ For shaper, by shaper, help you be a shaper.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-## CHANGELOG 
+## CHANGELOG
 
+- 180715 闪闪新增几个指南链接
 - 180325 闪闪增加一个 wiki 使用指南
 - 180324 闪闪把更新所有文档 MVP
 - 180311 闪闪增补两个问题清单
 - 180301 闪闪创建
-

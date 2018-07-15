@@ -13,6 +13,7 @@
   - [快速创建表格](#%E5%BF%AB%E9%80%9F%E5%88%9B%E5%BB%BA%E8%A1%A8%E6%A0%BC)
   - [高效插入图片-七牛图床使用技巧](#%E9%AB%98%E6%95%88%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87-%E4%B8%83%E7%89%9B%E5%9B%BE%E5%BA%8A%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)
   - [设置组块折叠](#%E8%AE%BE%E7%BD%AE%E7%BB%84%E5%9D%97%E6%8A%98%E5%8F%A0)
+  - [显示红绿对比的 diff](#%E6%98%BE%E7%A4%BA%E7%BA%A2%E7%BB%BF%E5%AF%B9%E6%AF%94%E7%9A%84-diff)
   - [设置脚注](#%E8%AE%BE%E7%BD%AE%E8%84%9A%E6%B3%A8)
   - [设置文内锚点](#%E8%AE%BE%E7%BD%AE%E6%96%87%E5%86%85%E9%94%9A%E7%82%B9)
     - [方法一：使用 bookmark 标记](#%E6%96%B9%E6%B3%95%E4%B8%80%E4%BD%BF%E7%94%A8-bookmark-%E6%A0%87%E8%AE%B0)
@@ -63,13 +64,62 @@ This is a known issue with the architecture of Next.js. Until a solution is buil
 
 	<details>
 	<summary> 这里是不想被折叠的文字</summary>
-	
+
 	这里是被折叠的文字。
-	
-	还可以正常换行、使用 MarkDown 语法。
+
+	看不同平台，不一定能正常换行、使用 MarkDown 语法。
 	</details>
 
-### 设置脚注 
+### 显示红绿对比的 diff
+
+代码效果：
+
+```diff
+---
++++
+@@ -7,7 +7,7 @@
+ c = conn.cursor()
+
+ for row in c.execute('SELECT * FROM weather_result'):
+-     print(row)
++    print(row)
+
+ # delete all records in the table
+ c.execute('DELETE FROM weather_result')
+@@ -19,8 +19,6 @@
+ # search_weather.weather_query(city)
+ # in_database = [(user_input, weather_condition, temperature)]
+ # c.executemany('INSERT INTO weather_result VALUES(?,?,?)', in_database)
+-
+-
+
+ # c.execute("INSERT INTO demo VALUES('2017-9-9', 198)")
+ #
+```
+
+
+文字效果：
+
+```diff
+
+- 作品和作品的差别，源于卡片。人和人的差异，来自习惯。
++ 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。一切皆时间的函数，时间最可怕的是复利效应。
+
+- 怎么做？你看着办吧。
++ 怎么做？小女子我先干为敬，你看着办。
+
+```
+
+实现方法
+
+	```diff
+
+	- 减号后是原来的字符。
+	+ 加号后是改后的字符。
+
+	```
+
+### 设置脚注
 
 **Example:**
 
@@ -99,7 +149,7 @@ This is a footnote:[^2]
 
 效果：点击标记字段便可直接跳转到文中指定位置。
 
-设置方法： 
+设置方法：
 
 
 1. 建立一个跳转的链接，标记方式为 `[说明文字](#jump)`：
@@ -188,9 +238,7 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 更多技巧，比如如何用 MarkDown 写论文，可见 [Markdown生态链整理 - 阳志平的网志](http://www.yangzhiping.com/tech/markdown-ecosystem.html)。
 
-## CHANGELOG 
+## CHANGELOG
 
+- 180715 闪闪增补如何显示红绿对比的 diff
 - 180324 闪闪整理发布到外部仓库
-
-
-
