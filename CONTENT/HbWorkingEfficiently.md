@@ -2,7 +2,7 @@
 
 # 提升工作效率的小技巧
 
-~ 汇总常用平台操作技巧，以备查阅（在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用）：
+~ 汇总常用平台操作技巧，以备查阅：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -21,6 +21,8 @@
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 start 以便查找调取最新版。
 
 ## Mac 快捷键
 

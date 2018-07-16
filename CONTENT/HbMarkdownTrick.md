@@ -1,8 +1,8 @@
 
-# MarkDown 特殊技巧
+# 偏门但实用的 MarkDown 技巧
 
 
-汇总偏门但实用的 MarkDown 技巧（在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用）：
+汇总偏门但实用的 MarkDown 技巧：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -24,11 +24,13 @@
   - [以幻灯的形式播放 MarkDown 文档](#%E4%BB%A5%E5%B9%BB%E7%81%AF%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%92%AD%E6%94%BE-markdown-%E6%96%87%E6%A1%A3)
   - [把 MarkDown 文档发布到其它平台](#%E6%8A%8A-markdown-%E6%96%87%E6%A1%A3%E5%8F%91%E5%B8%83%E5%88%B0%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0)
   - [把系列 MarkDown 文档发布为电子书](#%E6%8A%8A%E7%B3%BB%E5%88%97-markdown-%E6%96%87%E6%A1%A3%E5%8F%91%E5%B8%83%E4%B8%BA%E7%94%B5%E5%AD%90%E4%B9%A6)
+  - [在正文中引入别处内容、获取该内容的实时更新（embed）](#%E5%9C%A8%E6%AD%A3%E6%96%87%E4%B8%AD%E5%BC%95%E5%85%A5%E5%88%AB%E5%A4%84%E5%86%85%E5%AE%B9%E8%8E%B7%E5%8F%96%E8%AF%A5%E5%86%85%E5%AE%B9%E7%9A%84%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0embed)
   - [其它](#%E5%85%B6%E5%AE%83)
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 start 以便查找调取最新版。
 
 ## 内容编辑
 
@@ -196,7 +198,7 @@ HTML 中的 `<a>` 标签最重要的属性是 href ，它指示的链接目标�
 
 复制你想转译的内容，粘贴到这个 MarkDown 编辑器 [Typora — a minimal markdown reading & writing app](https://typora.io/) 中。然后全选、右键选择 `copy as MarkDown` ，再粘贴到其它编辑器，bingo！
 
-
+在网页上遇到想进一步编辑使用的内容，这招特省事儿。
 
 
 
@@ -234,6 +236,12 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 - [给 GitBook 添加全篇评论插件](https://github.com/OpenMindClub/Share/wiki/HbGitBookSetting#%E7%BB%99-gitbook-%E6%B7%BB%E5%8A%A0%E5%85%A8%E7%AF%87%E8%AF%84%E8%AE%BA%E5%B7%A5%E5%85%B7)
 - 将 GitBook 内容导出为 PDF 文档： [eBook and PDF · GitBook Toolchain Documentation](https://toolchain.gitbook.com/ebook.html)
 
+### 在正文中引入别处内容、获取该内容的实时更新（embed）
+
+如果你想在正文中引入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
+
+详见 https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
+
 ### 其它
 
 更多技巧，比如如何用 MarkDown 写论文，可见 [Markdown生态链整理 - 阳志平的网志](http://www.yangzhiping.com/tech/markdown-ecosystem.html)。
@@ -242,3 +250,5 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 - 180715 闪闪增补如何显示红绿对比的 diff
 - 180324 闪闪整理发布到外部仓库
+
+
