@@ -22,17 +22,17 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 start 以便查找调取最新版。
+注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 star 以便查找调取最新版。
 
 ## Mac 快捷键
 
 - 调出 emoji ：command + control + spacebar
 - 截图：
-	- 自带快捷键	
+	- 自带快捷键
 		- 全屏截图：Command+Shift+3, 使用快捷键后会马上截获当前的全屏。
 		- 区域截图：Command+Shift +4, 使用快捷键后会出现带坐标的瞄准器，拖拽选择要截图的区域。
 		- 程序窗口截图： Command+Shift+4+Space, 使用快捷键后会出现一个照相机的图标， 选择程序窗口，然后单击截图。
-	- 注意： 
+	- 注意：
 		- 默认情况下，所有截图会保存在桌面上，也就是 Desktop 文件夹下。
 		- 如果你在上述任意一套组合键中加上 Control 键，则截图会自动进入系统的剪切板记录，桌面不会再保存截图，此时你可以在 Pixelmator 这种图片编辑软件上直接 Command + V 进行粘贴。
 	- 微信或企业微信截图快捷键：command + shift + a
@@ -43,7 +43,7 @@
 
 ## zotero 快捷键
 
-Assign Colored Tag to an Item with 1 to 6 keys 
+Assign Colored Tag to an Item with 1 to 6 keys
 ：[kb:keyboard_shortcuts [Zotero Documentation]](https://www.zotero.org/support/kb/keyboard_shortcuts)
 
 ## 把 PDF 转为其它格式
@@ -56,17 +56,17 @@ Assign Colored Tag to an Item with 1 to 6 keys
 如果想直接在 kindle 查看，还可以把 PDF 以附件形式发到个人 kindle 邮箱（比如 ishanshan@kindle.cn），邮件主题为 convert 即可。详见 [Amazon.com: Send to Kindle by E-mail](https://www.amazon.com/gp/sendtokindle/email)。
 
 
-## git 
+## git
 
 ### 删除大型文件
 
 有时候新 clone 下来的仓库在 push 时会提示没有 push 权限，此时可以试试这个命令再 push :
 
-	rm .git/hooks/pre-push 
+	rm .git/hooks/pre-push
 
-或 rmlfs （已在 atext 配置缩略指令） 
+或 rmlfs （已在 atext 配置缩略指令）
 
-### 强制滚回某个版本 
+### 强制滚回某个版本
 
 如果想滚回到某个版本、消除这个版本之后的修改记录，可以这么操作：
 
@@ -74,7 +74,7 @@ Assign Colored Tag to an Item with 1 to 6 keys
 - 进入仓库目录，输入以下命令：
 
 		git reset --hard <hash of version you need>
-		
+
 		git add .
 		git commit -m "revert to XXX version"
 		git push -f
@@ -109,19 +109,18 @@ Assign Colored Tag to an Item with 1 to 6 keys
 
 	<iframe width='675' height='800' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQK7hMwB9i24zh-mBe_AExhEj-v5CJOZSEk1DVWs1RF2kRytEo8msg_LVaSDJ4NaDzjg0OrAwz68hVF/pubhtml?gid=526887982&amp;range=A1:E23&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-### embed WorkFlowy 
+### embed WorkFlowy
 
 操作可参考 [how to embed Workflowy lists in your website - meu entulho querido](http://entulho.fiatjaf.alhur.es/guias/how-to-embed-workflowy-lists-in-your-website/)
 
 如果想指定长宽，可加入上述参数。比如：
 
 	<iframe  width='675' height='800' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.9glcXYoyF4"></iframe>
-	
+
 如果想让别人也能在你分享的 WorkFlowy 片段里自由编辑，但又不影响你分享的内容，可以在分享地址后加 `?demo` ，比如 https://workflowy.com/s/CO_N.9glcXYoyF4?demo 。embed 后的地址同样适用。
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180421 闪闪增加 WorkFlowy `?demo` 操作
 - 180417 闪闪增加 embed WorkFlowy 操作
 - 180323 闪闪创建
-

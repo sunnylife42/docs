@@ -1,5 +1,5 @@
 
-# 偏门但实用的 MarkDown 技巧
+# 实用但小众的 MarkDown 技巧
 
 
 汇总偏门但实用的 MarkDown 技巧：
@@ -30,7 +30,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 start 以便查找调取最新版。
+注意：在 GitHub 网页查看可能看不出效果，建议把这个仓库 clone 到本地使用。且我会随手更新这个仓库的资源，建议 star 以便查找调取最新版。
 
 ## 内容编辑
 
@@ -250,5 +250,3 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 - 180715 闪闪增补如何显示红绿对比的 diff
 - 180324 闪闪整理发布到外部仓库
-
-
