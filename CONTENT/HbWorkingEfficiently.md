@@ -92,13 +92,21 @@ Assign Colored Tag to an Item with 1 to 6 keys
 
 ## embed something
 
-如果你想在网页中引入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
+如果你想在网页中嵌入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
 
 ### general
 
-一般来说，把你想引入的内容地址贴到 [Embed Code Generator | Embedly](http://embed.ly/code)，获取 embed 代码，贴到网页对应位置即可。
+一般来说，在页面嵌入别的页面，这些方式：
 
-或者检索「  `你所想引入的内容所在平台` + embed 」，找到更专业的方式。比如 👇🏻
+ - 直接插入这段代码，把 Your URL 替换成你想引入的页面。
+ 	 `<embed src="Your URL" style="width:500px; height: 300px;">`
+	效果如下：
+
+	<embed src="https://ishanshan.im/" style="width:500px; height: 300px;">
+	
+- 把你想引入的内容地址贴到 [Embed Code Generator | Embedly](http://embed.ly/code)，获取 embed 代码，贴到网页对应位置即可。
+
+如果你想找更专业的方式，可以直接检索「  `你所想引入的内容所在平台` + embed 」。比如 👇🏻
 
 ### embed Google Docs, Sheets, Slides & Forms
 
@@ -121,6 +129,9 @@ Assign Colored Tag to an Item with 1 to 6 keys
 
 ## CHANGELOG
 
+- 180718 闪闪增补 embed 通用的 HTML 代码
 - 180421 闪闪增加 WorkFlowy `?demo` 操作
 - 180417 闪闪增加 embed WorkFlowy 操作
 - 180323 闪闪创建
+
+
