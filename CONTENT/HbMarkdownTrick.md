@@ -48,9 +48,9 @@ MarkDown 编辑器推荐见 https://github.com/OpenMindClub/Share/wiki/IdxCooper
 
 如果你的表格是发布在支持 HTML 的页面，更优雅的方式是直接 embed ：https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
 
-### 高效插入图片-七牛图床使用技巧
+### 优雅又省心地插入图片
 
-技巧太多，另起一篇，详见 https://github.com/OpenMindClub/Share/wiki/HbImage 。
+技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](https://ishanshan.im/tool/community/HbMarkdownImage) 。
 
 ### 设置组块折叠
 
@@ -248,5 +248,6 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 ## CHANGELOG
 
+- 180724 闪闪修改插图技巧链接
 - 180715 闪闪增补如何显示红绿对比的 diff
 - 180324 闪闪整理发布到外部仓库
