@@ -39,7 +39,7 @@
 - 强制退出：command + option + esc
 - 调出活动监视器：在 Spotlight 中搜索 activity monitor
 
-更多 Mac 常用快捷键见 http://ishanshan.qiniudn.com/share/hbhotkeymac 。
+更多 Mac 常用快捷键见 http://ishanshan.zoomquiet.top/share/hbhotkeymac 。
 
 ## zotero 快捷键
 

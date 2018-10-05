@@ -190,7 +190,7 @@ HTML 中的 `<a>` 标签最重要的属性是 href ，它指示的链接目标�
 
 我一般都直接用后者，便于他人网页浏览。本地自己查看的话，就借助 MarkDown 编辑器 [MWeb](http://zh.mweb.im/) 自带的大纲视图，直接显示文档目录：
 
-![sampleissueassignmenthandup.png](http://ishanshan.qiniudn.com/share/sampleissueassignmenthandup.png?imageslim)
+![sampleissueassignmenthandup.png](http://ishanshan.zoomquiet.top/share/sampleissueassignmenthandup.png?imageslim)
 
 
 
