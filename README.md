@@ -73,7 +73,7 @@ For shaper, by shaper, help you be a shaper.
 - `.html` 结尾：为 https://ishanshan.im/ 发布的博文
 - 无后缀结尾：为 https://github.com/OpenMindClub/Share/wiki/ 仓库 wiki 文档
 
- 
+
 ## Contribution
 
 欢迎你也发挥自己的长处，助更多人能把周围塑造成他想见的样子 ;-)
