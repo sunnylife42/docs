@@ -34,7 +34,7 @@
 
 ## 内容编辑
 
-MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式的：
+MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式的。比如：
 
 - [Typora — a markdown editor, markdown reader.](https://typora.io/)：Mac/Win 均支持，免费，界面美观
 - [MWeb](http://zh.mweb.im/)：Mac ，100+ CNY ，个人感觉很值
