@@ -31,10 +31,11 @@ For shaper, by shaper, help you be a shaper.
 
 ### 2. join an organization
 
-
-- 初入团队，主动找周围接口了解期望
-	- 问题清单 1：新人找 manager 会谈，了解期望（[InfoQFreshman2Manager.md](CONTENT/InfoQFreshman2Manager.md)）
-	- 问题清单 2：新人找同事会谈，了解潜规则（[InfoQFreshman2Partner.md](CONTENT/InfoQFreshman2Partner.md)）
+- 求职准备清单
+- 入职提问清单
+	- 问题清单 1：提问面试官，获取更多信息（InfoQCandidate2Interviewer.md）
+	- 问题清单 2：找 manager 了解期望（[InfoQNewcomer2Manager.md](CONTENT/InfoQNewcomer2Manager.md)）
+	- 问题清单 3：找同事了解工作状态和潜规则（[InfoQNewcomer2Partner.md](CONTENT/InfoQNewcomer2Partner.md)）
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](https://ishanshan.im/selfedu/TipsWeekly.html)）
 - 月度自检，占据 1 on 1 沟通主动权（[InfoQYourself4WorkReviewMonthly.md](CONTENT/InfoQYourself4WorkReviewMonthly.md)）
 - 附：
