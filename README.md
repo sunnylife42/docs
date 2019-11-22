@@ -36,6 +36,8 @@ For shaper, by shaper, help you be a shaper.
 	- 问题清单 1：提问面试官，获取更多信息（InfoQCandidate2Interviewer.md）
 	- 问题清单 2：找 manager 了解期望（[InfoQNewcomer2Manager.md](CONTENT/InfoQNewcomer2Manager.md)）
 	- 问题清单 3：找同事了解工作状态和潜规则（[InfoQNewcomer2Partner.md](CONTENT/InfoQNewcomer2Partner.md)）
+
+- 新人磨合指南（[HbNewcomer.md](CONTENT/HbNewcomer.md)）
 - 用心写周报，争取成长机会和资源（[TipsWeekly.html](https://ishanshan.im/selfedu/TipsWeekly.html)）
 - 月度自检，占据 1 on 1 沟通主动权（[InfoQYourself4WorkReviewMonthly.md](CONTENT/InfoQYourself4WorkReviewMonthly.md)）
 - 附：
@@ -72,7 +74,7 @@ For shaper, by shaper, help you be a shaper.
 - `.html` 结尾：为 https://ishanshan.im/ 发布的博文
 - 无后缀结尾：为 https://github.com/OpenMindClub/Share/wiki/ 仓库 wiki 文档
 
- 
+
 ## Contribution
 
 欢迎你也发挥自己的长处，助更多人能把周围塑造成他想见的样子 ;-)
@@ -90,6 +92,7 @@ For shaper, by shaper, help you be a shaper.
 
 ## CHANGELOG
 
+- 181216 闪闪增补新人磨合指南
 - 180715 闪闪新增几个指南链接
 - 180325 闪闪增加一个 wiki 使用指南
 - 180324 闪闪把更新所有文档 MVP

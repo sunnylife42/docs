@@ -34,7 +34,14 @@
 
 ## 内容编辑
 
-MarkDown 编辑器推荐见 https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill 推荐，在页面直接检索 MarkDown 即可查看。
+MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式的。比如：
+
+- [Typora — a markdown editor, markdown reader.](https://typora.io/)：Mac/Win 均支持，免费，界面美观
+- [MWeb](http://zh.mweb.im/)：Mac ，100+ CNY ，个人感觉很值
+- [Markdown Monster - A better Markdown Editor for Windows](https://markdownmonster.west-wind.com/)：Win ，免费，界面比较 geek 
+
+或者选择一些不错的全能编辑器，比如 [Atom](https://atom.io/) /  [TextMate](http://macromates.com/) 。总之挑 1-2 个你用得顺手的就好。
+
 
 ### 在线协同编辑
 
@@ -248,6 +255,7 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 ## CHANGELOG
 
+- 181216 闪闪更新 MarkDown 编辑器推荐
 - 180724 闪闪修改插图技巧链接
 - 180715 闪闪增补如何显示红绿对比的 diff
 - 180324 闪闪整理发布到外部仓库
