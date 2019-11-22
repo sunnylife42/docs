@@ -46,7 +46,7 @@
 注意：
 
 - 如果你想了一刻钟还没思绪，可参考这份 [个人陈述写作指南（2016 梦想种子计划）](https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT/HbPersonalStatement_SEED.md) 中列举的问题找点灵感。
-- 这是我 2017 年梳理的结果，也供你参考：https://workflowy.com/s/CO_N.kLKumtwNxu 。
+- 这是我梳理的结果，也供你参考：https://workflowy.com/s/71ba44d543c2/9SSn7kWLGp7AWeSw 。
 
 ### 梳理自己的优势
 
