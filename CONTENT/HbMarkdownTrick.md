@@ -59,6 +59,12 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](https://ishanshan.im/tool/community/HbMarkdownImage) 。
 
+### 换行
+
+<br>
+
+`<br>`
+
 ### 设置组块折叠
 
 效果：
@@ -255,6 +261,7 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 ## CHANGELOG
 
+- 200130 闪闪更新换行标记
 - 181216 闪闪更新 MarkDown 编辑器推荐
 - 180724 闪闪修改插图技巧链接
 - 180715 闪闪增补如何显示红绿对比的 diff
