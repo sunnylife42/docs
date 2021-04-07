@@ -51,6 +51,7 @@ For shaper, by shaper, help you be a shaper.
 	- 招聘面试指南（[HbEmploy](https://github.com/OpenMindClub/Share/wiki/HbEmploy)）
 	- 招聘流程管理指南（[HbHire2Entry.md](CONTENT/HbHire2Entry.md)）
 - 优雅张罗共创时空
+	- 摸清项目需求、预期（[hb_projectmanagement_pre.md](CONTENT/hb_projectmanagement_pre.md)）
 	- 张罗项目启动会（[HbHostProjectStartupMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostProjectStartupMeeting)）
 	- 张罗常规共创会议（[HbHostCollaborateMeeting](https://github.com/OpenMindClub/Share/wiki/HbHostCollaborateMeeting)）
 	- 张罗对外的小型交流活动（[HbHostActivity](https://github.com/OpenMindClub/Share/wiki/HbHostActivity)）
@@ -92,6 +93,7 @@ For shaper, by shaper, help you be a shaper.
 
 ## CHANGELOG
 
+- 210407 闪闪增补摸清项目需求指南
 - 181216 闪闪增补新人磨合指南
 - 180715 闪闪新增几个指南链接
 - 180325 闪闪增加一个 wiki 使用指南
