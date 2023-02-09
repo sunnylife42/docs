@@ -87,7 +87,7 @@ Hi，谢谢你的信任和支持，欢迎来用闪闪人生推进器，一起人
 那最后产出的成果长什么样？如果你想看更具体的示例，这里是一份相对完整的成果示例，也是我目前最新版的人生全局规划。
 
 [‍远期愿景](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=DQo4ZU)
-[‍‬‍‌⁡‌﻿⁣‍​⁤‬‬​‌⁡⁢﻿﻿​⁤​‍‬‌⁣‍‬​‌‬⁡​​⁣⁤‍‬⁢⁢​‬​​​⁣⁤‌‌﻿中短期目标规划](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=y4zfOl) （这个页面现在还不支持直接预览，可先点击链接查看）
+[‍‬‍‌⁡‌﻿⁣‍​⁤‬‬​‌⁡⁢﻿﻿​⁤​‍‬‌⁣‍‬​‌‬⁡​​⁣⁤‍‬⁢⁢​‬​​​⁣⁤‌‌﻿中短期目标规划](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=y4zfOl) （预览页面还未生成，请先点击链接查看）
 
 
 但**这些标准和示例，不必现在细看**。
