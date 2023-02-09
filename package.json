@@ -18,10 +18,13 @@
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "viewerjs": "^1.11.2"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
-    "typescript": "^4.9.3"
+    "hast-util-has-property": "^2.0.1",
+    "typescript": "^4.9.3",
+    "unist-util-visit": "^4.1.2"
   }
 }

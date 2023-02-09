@@ -2,12 +2,15 @@ lockfileVersion: 5.4
 
 specifiers:
   '@types/node': 18.11.10
+  hast-util-has-property: ^2.0.1
   next: ^13.1.6
   nextra: latest
   nextra-theme-docs: latest
   react: ^18.2.0
   react-dom: ^18.2.0
   typescript: ^4.9.3
+  unist-util-visit: ^4.1.2
+  viewerjs: ^1.11.2
 
 dependencies:
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
@@ -15,10 +18,13 @@ dependencies:
   nextra-theme-docs: 2.2.14_u6qwm625rg3t7ll2t4ybomvrai
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
+  viewerjs: 1.11.2
 
 devDependencies:
   '@types/node': 18.11.10
+  hast-util-has-property: 2.0.1
   typescript: 4.9.3
+  unist-util-visit: 4.1.2
 
 packages:
 
@@ -59,7 +65,7 @@ packages:
       unified: 10.1.2
       unist-util-position-from-estree: 1.1.1
       unist-util-stringify-position: 3.0.2
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       vfile: 5.3.6
     transitivePeerDependencies:
       - supports-color
@@ -394,7 +400,6 @@ packages:
 
   /@types/unist/2.0.6:
     resolution: {integrity: sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==}
-    dev: false
 
   /acorn-jsx/5.3.2_acorn@8.8.1:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
@@ -711,6 +716,10 @@ packages:
       web-namespaces: 2.0.1
     dev: false
 
+  /hast-util-has-property/2.0.1:
+    resolution: {integrity: sha512-X2+RwZIMTMKpXUzlotatPzWj8bspCymtXH3cfG3iQKV+wPF53Vgaqxi/eLqGck0wKq1kS9nvoB1wchbCPEL8sg==}
+    dev: true
+
   /hast-util-is-element/2.1.3:
     resolution: {integrity: sha512-O1bKah6mhgEq2WtVMk+Ta5K7pPMqsBBlmzysLdcwKVrqzZQ0CHqUPiIVspNhAG1rvxpvJjtGee17XfauZYKqVA==}
     dependencies:
@@ -939,7 +948,7 @@ packages:
     dependencies:
       '@types/mdast': 3.0.10
       '@types/unist': 2.0.6
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /mdast-util-find-and-replace/2.2.1:
@@ -1093,7 +1102,7 @@ packages:
       unist-builder: 3.0.0
       unist-util-generated: 2.0.0
       unist-util-position: 4.0.3
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /mdast-util-to-markdown/1.3.0:
@@ -1104,7 +1113,7 @@ packages:
       longest-streak: 3.1.0
       mdast-util-to-string: 3.1.0
       micromark-util-decode-string: 1.0.2
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
       zwitch: 2.0.4
     dev: false
 
@@ -1617,7 +1626,7 @@ packages:
       slash: 3.0.0
       title: 3.5.3
       unist-util-remove: 3.1.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     transitivePeerDependencies:
       - supports-color
     dev: false
@@ -1746,7 +1755,7 @@ packages:
       rehype-parse: 8.0.4
       unified: 10.1.2
       unist-util-remove-position: 4.0.1
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /rehype-parse/8.0.4:
@@ -2028,7 +2037,6 @@ packages:
 
   /unist-util-is/5.1.1:
     resolution: {integrity: sha512-F5CZ68eYzuSvJjGhCLPL3cYx45IxkqXSetCcRgUXtbcm50X2L9oOWQlfUfDdAf+6Pd27YDblBfdtmsThXmwpbQ==}
-    dev: false
 
   /unist-util-position-from-estree/1.1.1:
     resolution: {integrity: sha512-xtoY50b5+7IH8tFbkw64gisG9tMSpxDjhX9TmaJJae/XuxQ9R/Kc8Nv1eOsf43Gt4KV/LkriMy9mptDr7XLcaw==}
@@ -2046,7 +2054,7 @@ packages:
     resolution: {integrity: sha512-0yDkppiIhDlPrfHELgB+NLQD5mfjup3a8UYclHruTJWmY74je8g+CIFr79x5f6AkmzSwlvKLbs63hC0meOMowQ==}
     dependencies:
       '@types/unist': 2.0.6
-      unist-util-visit: 4.1.1
+      unist-util-visit: 4.1.2
     dev: false
 
   /unist-util-remove/3.1.1:
@@ -2075,7 +2083,6 @@ packages:
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.1.1
-    dev: false
 
   /unist-util-visit/3.1.0:
     resolution: {integrity: sha512-Szoh+R/Ll68QWAyQyZZpQzZQm2UPbxibDvaY8Xc9SUtYgPsDzx5AWSk++UUt2hJuow8mvwR+rG+LQLw+KsuAKA==}
@@ -2085,13 +2092,12 @@ packages:
       unist-util-visit-parents: 4.1.1
     dev: false
 
-  /unist-util-visit/4.1.1:
-    resolution: {integrity: sha512-n9KN3WV9k4h1DxYR1LoajgN93wpEi/7ZplVe02IoB4gH5ctI1AaF2670BLHQYbwj+pY83gFtyeySFiyMHJklrg==}
+  /unist-util-visit/4.1.2:
+    resolution: {integrity: sha512-MSd8OUGISqHdVvfY9TPhyK2VdUrPgxkUtWSuMHF6XAAFuL4LokseigBnZtPnJMu+FbynTkFNnFlyjxpVKujMRg==}
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.1.1
       unist-util-visit-parents: 5.1.1
-    dev: false
 
   /uvu/0.5.6:
     resolution: {integrity: sha512-+g8ENReyr8YsOc6fv/NVJs2vFdHBnBNdfE49rshrTzDWOlUx4Gq7KOS2GD8eqhy2j+Ejq29+SbKH8yjkAqXqoA==}
@@ -2133,6 +2139,10 @@ packages:
       is-buffer: 2.0.5
       unist-util-stringify-position: 3.0.2
       vfile-message: 3.1.3
+    dev: false
+
+  /viewerjs/1.11.2:
+    resolution: {integrity: sha512-z7N9R91ORhtLvOUxN7GoIl+MFVVMbtWNB1T2UmTKuMlzc4EevS+/bletZcIwDf8RIUzk2CFMdleQzcsjsfLl+A==}
     dev: false
 
   /vscode-oniguruma/1.7.0:

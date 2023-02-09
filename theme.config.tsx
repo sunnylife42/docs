@@ -32,6 +32,11 @@ const config: DocsThemeConfig = {
       <meta property="og:image" content="https://cdn.sunnyhuang.net/share/logo-square.png" />
     </>
   },
+  main: ({ children }) => (
+    <main id="main">
+      {children}
+    </main>
+  ),
   footer: {
     text: (
       <p className="nx-w-full nx-text-center">
