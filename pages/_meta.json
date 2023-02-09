@@ -1,3 +1,12 @@
 {
-  "index": "内测报名"
+  "index": "内测报名",
+  "welcome": "欢迎你，同行者",
+  "-- Themes": {
+    "type": "separator",
+    "title": "人生发展护航手册"
+},
+  "project": "项目任务书",
+  "template": "模板：人生要事稳步走",
+  "case": "案例：梳理、推进人生规划",
+  "guide": "锦囊："
 }
