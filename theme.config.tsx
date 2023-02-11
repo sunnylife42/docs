@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/sunnylife42/docs',
   },
-  docsRepositoryBase: 'https://github.com/sunnylife42/docs/pages',
+  docsRepositoryBase: 'https://github.com/sunnylife42/docs/blob/master',
   useNextSeoProps() {
     const { asPath } = useRouter()
     if (asPath !== '/') {
