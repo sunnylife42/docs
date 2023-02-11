@@ -14,7 +14,6 @@
   "license": "CC BY-NC 4.0",
   "homepage": "https://sunnylife.love/docs",
   "dependencies": {
-    "@vercel/analytics": "^0.1.8",
     "next": "^13.1.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
