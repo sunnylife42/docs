@@ -2,7 +2,6 @@ import type { AppProps } from 'next/app';
 import type Viewer from 'viewerjs';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
-import { Analytics } from '@vercel/analytics/react';
 import 'viewerjs/dist/viewer.css';
 import '../styles/global.css';
 
@@ -53,7 +52,6 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Component {...pageProps} />
-      <Analytics />
     </>
   );
 }
