@@ -15,6 +15,7 @@
   "homepage": "https://sunnylife.love/docs",
   "dependencies": {
     "next": "^13.1.6",
+    "next-plausible": "^3.7.2",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",

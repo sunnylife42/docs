@@ -2,6 +2,7 @@ import type { AppProps } from 'next/app';
 import type Viewer from 'viewerjs';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import PlausibleProvider from 'next-plausible';
 import 'viewerjs/dist/viewer.css';
 import '../styles/global.css';
 
@@ -50,9 +51,13 @@ function App({ Component, pageProps }: AppProps) {
   }, [events]);
 
   return (
-    <>
+    <PlausibleProvider
+      selfHosted
+      domain="sunnylife42.com"
+      customDomain="https://analytics.cyc.app"
+    >
       <Component {...pageProps} />
-    </>
+    </PlausibleProvider>
   );
 }
 
