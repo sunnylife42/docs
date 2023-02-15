@@ -1,12 +1,14 @@
 {
   "index": "内测报名：人生要事稳步走，爱与成就不缺席",
-  "welcome": "欢迎你，同行者",
+  "start": "欢迎你，同行者",
   "-- Themes": {
     "type": "separator",
     "title": "人生发展护航手册"
 },
   "usege": "怎么使用我？",
-  "project": "项目任务书",
+  "projects": "项目任务书",
   "template": "模板&使用案例",
-  "guide": "锦囊"
+  "basic": "人生项目通则：通用能力",
+  "meeting": "人生项目通则：例会互动",
+  "guides": "更多锦囊"
 }
