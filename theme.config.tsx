@@ -4,7 +4,7 @@ import { useConfig, DocsThemeConfig } from 'nextra-theme-docs'
 
 const title = '闪闪人生'
 const description = '拥抱爱与成就，就用闪闪人生'
-const url = 'https://sunnylife.love/docs'
+const url = 'https://sunnylife42.com/docs'
 
 const config: DocsThemeConfig = {
   logo: (
