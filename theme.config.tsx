@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRouter } from 'next/router'
-import { useConfig, DocsThemeConfig } from 'nextra-theme-docs'
+import {  DocsThemeConfig } from 'nextra-theme-docs'
 
 const title = '闪闪人生'
 const description = '拥抱爱与成就，就用闪闪人生'
@@ -24,13 +24,12 @@ const config: DocsThemeConfig = {
   },
   head: () => {
     const { asPath } = useRouter()
-    const { frontMatter } = useConfig()
-    return <>
-      <meta property="og:url" content={`${url}${asPath}`} />
-      <meta property="og:title" content={frontMatter.title || title} />
-      <meta property="og:description" content={frontMatter.description || description} />
-      <meta property="og:image" content="https://cdn.sunnyhuang.net/share/logo-square.png" />
-    </>
+    return (
+      <>
+        <meta name="og:url" content={`${url}${asPath}`} />
+        <meta name="og:image" content="https://cdn.sunnyhuang.net/share/logo-square.png" />
+      </>
+    )
   },
   main: ({ children }) => (
     <main id="main">
