@@ -1,14 +1,26 @@
 {
   "index": "内测报名：人生要事稳步走，爱与成就不缺席",
   "start": "欢迎你，同行者",
-  "-- Themes": {
+  "T1": {
     "type": "separator",
     "title": "人生发展护航手册"
 },
   "usege": "怎么使用我？",
+  "glossary": "黑话词典",
   "projects": "项目任务书",
   "template": "人生战略管理：模板&使用案例",
   "meeting": "人生战略管理：例会互动",
   "basic": "人生战略管理：通用框架",
-  "guides": "更多锦囊"
+  "guides": "更多锦囊",
+  "T2": {
+    "type": "separator",
+    "title": "关于"
+  },
+  "about-sunny": {
+    "title": "主理人简介",
+    
+    "href": "https://sunnyhuang.net/about",
+    "newWindow": true
+  },
+  "logdev": "主理人手记"
 }
