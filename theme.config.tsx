@@ -41,7 +41,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: (
       <p className="nx-w-full nx-text-center">
-        © {new Date().getFullYear()} {title}.
+        © {new Date().getFullYear()} {title}
       </p>
     )
   }

@@ -6,7 +6,7 @@
     "title": "人生发展护航手册"
 },
   "usege": "怎么使用我？",
-  
+  "glossary": "黑话词典",
   "projects": "项目任务书",
   "template": "人生战略管理：模板&使用案例",
   "meeting": "人生战略管理：例会互动",
@@ -22,5 +22,5 @@
     "href": "https://sunnyhuang.net/about",
     "newWindow": true
   },
-  "logdev": "主理人手记"
+  "logdev": "产品开发手记"
 }
