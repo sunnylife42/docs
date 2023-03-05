@@ -46,15 +46,6 @@ const withNextra = nextra({
 
 export default withNextra({
   basePath: '/docs',
-  async rewrites() {
-    return [
-      {
-        source: '/',
-        destination: 'https://sunnylife42.com/docs',
-        basePath: false
-      }
-    ]
-  },
   async redirects() {
     return [
       {
