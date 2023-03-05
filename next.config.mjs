@@ -54,5 +54,21 @@ export default withNextra({
         basePath: false
       }
     ]
-  }
+  },
+  async redirects() {
+    return [
+      {
+        source: '/assessments/growth',
+        destination: 'https://app.sunnylife42.com/assessments/growth',
+        permanent: true,
+        basePath: false
+      },
+      {
+        source: '/documents/new',
+        destination: 'https://app.sunnylife42.com//documents/new',
+        permanent: true,
+        basePath: false
+      }
+    ]
+  },
 })
