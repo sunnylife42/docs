@@ -4,9 +4,8 @@
   "description": "Sunnylife docs",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "postbuild": "next-sitemap"
+    "build": "next build && next-sitemap",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
