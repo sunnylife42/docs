@@ -1,3 +1,3 @@
 module.exports = {
-  siteUrl: 'https://sunnylife42.com',
+  siteUrl: 'https://sunnylife42.com/docs',
 };
