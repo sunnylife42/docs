@@ -17,10 +17,15 @@
   },
   "about-sunny": {
     "title": "主理人简介 ↗",
-    
     "href": "https://sunnyhuang.net/about",
     "newWindow": true
   },
-  "logdev": "产品开发手记", 
-  "helpwanted": "传播答谢计划"
+  "logdev": "产品开发手记",
+  "helpwanted": "传播答谢计划",
+  "assistants": {
+    "title": "分析助手",
+    "type": "page",
+    "href": "https://app.sunnylife42.com/assistants/strategy",
+    "newWindow": true
+  }
 }
