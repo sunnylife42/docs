@@ -1,15 +1,19 @@
 {
+  "T3": {
+    "type": "separator",
+    "title": "内测报名："
+},
   "index": "人生岔路无数，迷茫焦虑又内耗？试试这组帮手，探索创造想要的生活",
-  "start": "欢迎你，同行者",
+  
   "T1": {
     "type": "separator",
-    "title": "人生发展护航手册"
+    "title": "人生战略管理·实践指南"
 },
-  "usege": "怎么使用我？",
+  "start": "欢迎你，同行者",
   "glossary": "黑话词典",
-  "project-meta": "人生战略管理：元(meta)项目",
-  "template": "人生战略管理：模板&使用案例",
-  "basic": "人生战略管理：通用框架",
+  "project-meta": "人生战略管理·元(meta)项目",
+  "template": "人生战略管理·模板&使用案例",
+  "basic": "人生战略管理·通用框架",
   "guides": "更多锦囊",
   "T2": {
     "type": "separator",
