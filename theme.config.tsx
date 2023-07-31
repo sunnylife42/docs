@@ -4,7 +4,7 @@ import {DocsThemeConfig, useConfig} from 'nextra-theme-docs'
 
 const title = '闪闪人生'
 const description = '拥抱爱与成就，就用闪闪人生'
-const keywords = '闪闪人生推进器, 人生战略, 人生规划, 人生目标, 选择, 决策'
+const keywords = '闪闪人生推进器, 人生战略, 人生规划, 人生目标, 选择, 战略管理, 帮手, 决策'
 const url = 'https://sunnylife42.com/docs'
 
 const config: DocsThemeConfig = {
