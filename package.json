@@ -12,10 +12,10 @@
     "url": "git+https://github.com/sunnylife42/docs.git"
   },
   "license": "CC BY-NC 4.0",
-  "homepage": "https://sunnylife.love/docs",
+  "homepage": "https://sunnylife42.com/",
   "dependencies": {
+    "@next/third-parties": "^14.2.3",
     "next": "^13.1.6",
-    "next-plausible": "^3.7.2",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
