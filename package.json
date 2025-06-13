@@ -16,8 +16,8 @@
   "dependencies": {
     "@next/third-parties": "^14.2.3",
     "next": "^13.1.6",
-    "nextra": "latest",
-    "nextra-theme-docs": "latest",
+    "nextra": "2.13.4",
+    "nextra-theme-docs": "2.13.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "viewerjs": "^1.11.2"
